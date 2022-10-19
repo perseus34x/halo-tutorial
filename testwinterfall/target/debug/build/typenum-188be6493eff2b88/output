@@ -1,2 +1,0 @@
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/suleymankardas/Desktop/rust-projects/testwinterfall/target/debug/build/typenum-188be6493eff2b88/out/consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=/Users/suleymankardas/Desktop/rust-projects/testwinterfall/target/debug/build/typenum-188be6493eff2b88/out/op.rs
